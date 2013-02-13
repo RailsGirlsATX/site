@@ -36,8 +36,8 @@ Meetups](http://geekaustin.org/guide-austin-tech-meetups)
 * [Ruby Koans](http://rubykoans.com/ ) - Learn the Ruby language, syntax, structure, practice in your browser or download to work on your computer. Free.
 * [Codecademy](http://www.codecademy.com/tracks/ruby) - Progression of lessons to teach you Ruby. Free.
 * [RubyMonk](http://rubymonk.com/learning/books/1 ) - Free for basic, $10/month for advanced Ruby.
-* [Ruby on Rails Tutorial (Michael Hartl)](http://ruby.railstutorial.org/) - Free 1st ed ebook, paid book 2nd ed and screencasts.
 * [Puzzle Node](http://puzzlenode.com/) - 15 fun puzzles you can code in any language. Free.
+* [Practicing Ruby](https://practicingruby.com/) - A series of lessons designed to level-up your Ruby skills. $8/month.
 
 ## Examples of Rails Apps
 
@@ -52,6 +52,9 @@ Meetups](http://geekaustin.org/guide-austin-tech-meetups)
 
 ## Books
 
+* [Learn Ruby the Hard Way](http://ruby.learncodethehardway.org/) - A free ebook on programming Ruby.
+* [Ruby on Rails Tutorial (Michael Hartl)](http://ruby.railstutorial.org/) - Free 1st ed ebook, paid book 2nd ed and screencasts.
+* [Mr. Neighborly's Humble Little Ruby Book](http://www.humblelittlerubybook.com/) - Another free ebook on Ruby.
 * [Learn to Program, by Chris Pine](http://www.amazon.com/dp/1934356360) 
 * [Practical Object-Oriented Design in Ruby, by Sandi Metz](http://www.amazon.com/dp/0321721330)
 * [Eloquent Ruby, by Russ Olsen](http://www.amazon.com/dp/0321584104)
