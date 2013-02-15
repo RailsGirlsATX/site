@@ -59,6 +59,11 @@ Meetups](http://geekaustin.org/guide-austin-tech-meetups)
 * [Practical Object-Oriented Design in Ruby, by Sandi Metz](http://www.amazon.com/dp/0321721330)
 * [Eloquent Ruby, by Russ Olsen](http://www.amazon.com/dp/0321584104)
 
+## JavaScript
+
+* [How to Learn JavaScript
+  Properly](http://javascriptissexy.com/how-to-learn-javascript-properly/) - A roadmap for teaching yourself JavaScript.
+
 ## Misc
 
 * [Ruby Rogues, “Ruby Nuby Episode”](http://rubyrogues.com/090-rr-ruby-nuby-episode/)
