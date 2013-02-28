@@ -26,6 +26,7 @@ Meetups](http://geekaustin.org/guide-austin-tech-meetups)
 * [Treehouse](http://www.teamtreehouse.com) - Free month for a limited time.
 * [Codeschool](http://www.codeschool.com) - Videos with interactive shell, some free courses. Subscription is $25/month.
 * [Railscasts](http://railscasts.com) - Free episodes and pro episodes for $9/month.
+* [Metacasts](http://metacasts.tv) - Paid screencasts about Ruby and Javascript.
 * [Why’s (poignant) Guide to Ruby](http://mislav.uniqpath.com/poignant-guide/) - Ruby in comics!
 * [Skillcrush](http://skillcrush.com/) - Not RoR specifically, but general web resources). Free.
 * [ShortCutFoo](https://www.shortcutfoo.com/) - Learn commands for git, vi, textmate, etc. Free for a basic use of site and $9 to gain access to all exercises.
